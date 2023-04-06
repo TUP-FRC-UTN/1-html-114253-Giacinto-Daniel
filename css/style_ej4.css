@@ -1,0 +1,12 @@
+ul{
+    list-style-type: none;
+    padding-left: 10px;
+}
+li{
+    margin-top: 10px;
+    font-size: 20px;
+}
+h3{
+    font-size: 20px;
+    color: blue;
+}

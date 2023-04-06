@@ -1,0 +1,54 @@
+.teal{
+    color:teal;
+    font-size: larger;
+}
+.red{
+    color:red;
+    font-size: larger;
+}
+.blue{
+    color: blue;
+    font-size: larger;
+}
+.orange{
+    color: orange;
+    font-size: larger;
+}
+.purple{
+    color: purple;
+    font-size: larger;
+}
+.olive{
+    color: olive;
+    font-size: larger;
+}
+.fuchsia{
+    color: fuchsia;
+    font-size: larger;
+}
+.green{
+    color: green;
+    font-size: larger;
+}
+table{
+    font-size: 25px;
+    border: 3px solid black;
+}
+.fondo-red{
+    background-color: red;
+}
+.fondo-blue{
+    background-color: blue;
+}
+.fondo-green{
+    background-color: green;
+}
+td{
+    border: 2px solid black;
+}
+.estilo-tabla{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
